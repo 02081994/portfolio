@@ -397,7 +397,8 @@ body.offcanvas {
     .colorlib-services,
     .colorlib-contact {
       padding-top: 5em;
-      padding-bottom: 8em; } }
+      /*padding-bottom: 8em; */
+      } }
 
 .author-img {
   background-size: cover;
@@ -407,7 +408,7 @@ body.offcanvas {
 
 .colorlib-heading {
   font-size: 18px;
-  margin-bottom: 4em;
+  /*margin-bottom: 4em;*/
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 5px;
@@ -696,7 +697,7 @@ body.offcanvas {
   .services .desc {
     margin-top: 60px; }
     .services .desc h3 {
-      font-size: 16px;
+      font-size: 12px;
       font-weight: 700;
       text-transform: uppercase; }
   .services.color-2 .icon {
